@@ -1,4 +1,3 @@
-
 def run():
     name = "TEOPIZ"
     array = [None] * len(name)

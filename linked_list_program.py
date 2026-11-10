@@ -1,5 +1,3 @@
-# Singly Linked List Program Implementation for TEOPIZ
-
 class Node:
     def __init__(self, data):
         self.data = data

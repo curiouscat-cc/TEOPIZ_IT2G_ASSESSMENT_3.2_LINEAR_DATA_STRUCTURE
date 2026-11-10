@@ -1,5 +1,3 @@
-# Queue Program Implementation for TEOPIZ
-
 class Queue:
     def __init__(self):
         self.items = []

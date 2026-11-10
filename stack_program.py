@@ -1,5 +1,3 @@
-# Stack Program Implementation for TEOPIZ
-
 class Stack:
     def __init__(self):
         self.items = []

@@ -1,5 +1,3 @@
-# Main program
-
 import array_program
 import linked_list_program
 import stack_program
@@ -11,7 +9,7 @@ def show_menu():
     print("         LINEAR DATA STRUCTURES          ")
     print("========================================")
     print("1. Array")
-    print("2. Linked List")
+    print("2. Linked List (Singly)")
     print("3. Stack")
     print("4. Queue")
     print("5. Exit")
